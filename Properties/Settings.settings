@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Design_WhiteMode_Modern.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Conta" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Conta</Value>
+    </Setting>
+    <Setting Name="bt_Conta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Conta</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
